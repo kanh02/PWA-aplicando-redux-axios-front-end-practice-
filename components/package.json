@@ -9,6 +9,6 @@
     "@open-wc/demoing-storybook": "^1.0.1",
     "@open-wc/building-webpack": "^2.1.0",
     "webpack": "^4.28.0",
-    "webpack-cli": "^3.3.4"
+    "webpack-cli": "^3.3.12"
   }
 }
